@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",RECORD
+http://playpluspoa-lh.akamaihd.net:80/i/pp_poa@377864/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",PLUTO NATUREZA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT CIDADE VERDE
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT CAURAU
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT RECIFE
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT SERRA DOURADO
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",TESTE DRIVE 
+https://www.googleapis.com/drive/v3/files/1gfnOeK8kkjQl7TeRy17I2V2bXZ7sSXpG?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",MARSHA E URSO
+https://www.googleapis.com/drive/v3/files/1gi6-7jLm_NC24AvCMRDm0pLxxRK64hfP?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",MATINHOS
+https://www.googleapis.com/drive/v3/files/1hNG3X7lkt4aYg_R_wAxTRjxEaLUcn3EU?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",CAÇÃO QUEKO
+https://www.googleapis.com/drive/v3/files/1hfuMd3bTTyFajct6xmF5ByHV_OGZIHlJ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",FILHA NA COMPRA
+https://www.googleapis.com/drive/v3/files/1hUZTpjAYYzTCLQqZ4B2ZtgPK_fJxBZFx?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
